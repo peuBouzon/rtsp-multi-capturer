@@ -6,7 +6,7 @@ Features:
 - Ajustable frame frate,
 - Automatic reconnection.
 
-## Instalation
+## Installation
 
 Please make sure you have python 3.8 or latter installed.
 
@@ -22,7 +22,7 @@ On the console, navigate to the project folder and do the following:
 
 You should see a (venv) displayed in your terminal.
 
-#### Intall dependencies
+#### Install the dependencies
 
 The dependencies of the project are listed in the requirements.txt file. To install them, do the following:
 
