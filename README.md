@@ -35,3 +35,5 @@ That's it!
 To run the project, please make sure you have activated your virtual environment and do the following:
 
 `python3 app.py 0 --fps 1`
+
+![Screenshot from 2022-08-06 15-27-08](https://user-images.githubusercontent.com/44006813/183261462-15ad502b-1284-4bad-87e5-56caededa9d6.png)
