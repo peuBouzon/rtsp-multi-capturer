@@ -1,5 +1,5 @@
 # rtsp-multi-capturer
-Package to read multiple cameras. Based on OpenCV.
+Package to read multiple cameras synchronously. Based on OpenCV.
 
 Features:
 - Synchronous capture of rtsp streams or webcams,
