@@ -2,7 +2,7 @@
 Package to read multiple cameras. Based on OpenCV.
 
 Features:
-- Parallel capture of rtsp streams,
+- Synchronous capture of rtsp streams or webcams,
 - Ajustable frame frate,
 - Automatic reconnection.
 
@@ -34,4 +34,4 @@ That's it!
 
 To run the project, please make sure you have activated your virtual environment and do the following:
 
-`python3 example.py`
+`python3 app.py 0 --fps 1`
